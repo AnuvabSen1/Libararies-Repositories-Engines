@@ -1,0 +1,8 @@
+{
+  "BaseDownloadUrl": "http://www.example.com/",
+  "LibrariesFolder": "/tmp/libraries/",
+  "LibrariesIndex": "/tmp/libraries/library_index.json",
+  "LibrariesDB": "/tmp/libraries_db.json",
+  "GitClonesFolder": "/tmp/gitclones",
+  "ArduinoLintPath": "/usr/bin/arduino-lint"
+}
